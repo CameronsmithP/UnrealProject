@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/UnrealProject/multiplayerPart1/Content/__ExternalActors__/Maps/Map_TestLevel/3/0A/DA04BL1HOUM51CIQ7S0KN4.uasset",
+				"F:/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"F:/UnrealProject/multiplayerPart1/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset",
 				"E:/Unreal/multiplayerPart1/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/Unreal/multiplayerPart1/Content/Maps/Map_TestLevel_HLOD0_Instancing.uasset",
 				"E:/Unreal/multiplayerPart1/Content/__ExternalActors__/Maps/Map_TestLevel/6/DQ/DEO4IAD488NKEDEMD8T4VS.uasset",
